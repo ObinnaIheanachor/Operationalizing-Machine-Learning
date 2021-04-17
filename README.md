@@ -14,6 +14,8 @@ The architectural diagram above shows the flow of operations from start to finis
 * Create and Publish a Pipeline: Using the Azure Python SDK with the aid of a Jupyter Notebook, we can create and publish a pipeline. This requires a `config.json` file to be present in the working directory. Using pipelines, we can automate the whole process of training and deploying our model.
 ### Future Work
 This project can be improved on by:
+* Use a parallel run step in the pipeline
+* Test a local container with a downloaded model
 * Using pipelines to automate the whole workflow from data preparation, to machine learning tasks and deployment.
 * Using the Apache Benchmark tool to set a measure of optimal performance.
 
