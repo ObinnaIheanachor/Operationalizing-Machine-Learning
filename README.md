@@ -89,7 +89,7 @@ Azure provides a swagger.json URL that can be used to create a web site that doc
 
 **Run Completed**
 
-![](https://github.com/ObinnaIheanachor/Operatiothat shows the entire process of the working ML applicationnalizing-Machine-Learning/blob/master/Screenshots/pipeline%20run%20completed.PNG)
+![](https://github.com/ObinnaIheanachor/Operationalizing-Machine-Learning/blob/master/Screenshots/pipeline%20run%20completed.PNG)
 
 ![](https://github.com/ObinnaIheanachor/Operationalizing-Machine-Learning/blob/master/Screenshots/run%20finished.PNG)
 
